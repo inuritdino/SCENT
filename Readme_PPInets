@@ -1,0 +1,2 @@
+Two versions of human PPI networks have been added as .Rd R object files. These PPI nets come from two different releases of the integrated PathwayCommon (PC) resource.
+The adjacency matrices of the networks have been annotated to human Entrez gene IDs.
