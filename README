@@ -1,1 +1,5 @@
-scent_1.0 is an R-package for analysis of single-cell RNA-Seq data. It uses single-cell entropy to help analyse and interpret such data.
+scent_1.0 is an R-package for analysis of single-cell RNA-Seq data. 
+It uses the notion of single-cell entropy to provide estimates of a cell's potency or phenotypic plasticity.
+This estimate of potency can be used to order single-cells in pseudotime, or to identify novel stem-like phenotypes
+in normal development or cancer.
+In addition, SCENT provides a lineage-inference algorithm by using the estimated potencies to further subcluster single-cells.
