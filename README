@@ -3,3 +3,6 @@ It uses the notion of single-cell entropy to provide estimates of a cell's poten
 This estimate of potency can be used to order single-cells in pseudotime, or to identify novel stem-like phenotypes
 in normal development or cancer.
 In addition, SCENT provides a lineage-inference algorithm by using the estimated potencies to further subcluster single-cells.
+It is based on the following published work: Teschendorff AE, Enver T. Single-cell entropy for accurate estimation of differentiation
+potency from a cell's transcriptome. Nat Commun. 2017 Jun 1;8:15599.
+IMPORTANT NOTICE: the SCENT package is now also part of the LandSCENT R-package (see https://github.com/ChenWeiyan/LandSCENT )
